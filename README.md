@@ -1,0 +1,2 @@
+# whitebg_square_app
+画像を白背景で正方形にするWebアプリ
